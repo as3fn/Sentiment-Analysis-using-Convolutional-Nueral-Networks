@@ -13,7 +13,7 @@ http://ai.stanford.edu/~amaas/data/sentiment/
 
 **Joker (2019)**
 
-A small dataset of the joker's movie to validate the model, the joker.txt was the file used for testing, the jokr.html is the reviews raw text plus the reviews links.
+A small dataset of the joker's movie to validate the model, the `joker.txt` was the file used for testing, the `jokr.html` is the reviews raw text plus the reviews links.
 
 
 ### Code
